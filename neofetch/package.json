@@ -1,4 +1,5 @@
 {
     "URL": "https://raw.githubusercontent.com/dylanaraps/neofetch/master/neofetch",
     "NOTES": "Neofetch is archived and will likely not see any further updates"
+    "SETUP": "chmod +x neofetch"
 }
